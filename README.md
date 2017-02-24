@@ -29,4 +29,4 @@ lite-server
 ### Pour voir les sources:
 cliquer ici [Lien vers les sources ](https://bitbucket.org/YazBoy/presentation-typescript-ou-java-script-autrement/src)
 ### Pour la presentation 
-cliquer ici [Lien vers la presentation]()
+cliquer ici [Lien vers la presentation](https://bitbucket.org/YazBoy/presentation-typescript-ou-java-script-autrement/raw/5a0479b880238c843d14b6754c7560d7430a955a/typescript/presentation_typescript.pdf)
