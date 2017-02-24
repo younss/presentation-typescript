@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "experimentalDecorators": true,
+        "allowJs": true,
+        "rootDir": "src",
+        "outFile": "dist/main.js",
+         "sourceMap": true,
+        "watch": true
+    },
+    "exclude": [
+        "dist",
+        ".vscode"
+    ]
+}

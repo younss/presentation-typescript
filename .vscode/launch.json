@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible Node.js debug attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "TP1 launch",
+            "program": "${workspaceRoot}\\typescript\\demo\\demo_test_tp\\tp1.ts",
+            "cwd": "${workspaceRoot}",
+            "sourceMaps": true,
+            "outFiles": [ "${workspaceRoot}\\typescript\\demo\\demo_test_tp\\tp1.js" ]
+        },
+        {
+            "type": "node",
+            "request": "attach",
+            "name": "Attacher au processus",
+            "port": 5858,
+            "outFiles": [],
+            "sourceMaps": true
+        }
+    ]
+}
