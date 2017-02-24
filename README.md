@@ -25,3 +25,8 @@ pour lancer lite-server
 ```
 lite-server
 ```
+
+### Pour voir les sources:
+cliquer ici [Lien vers les sources ](https://bitbucket.org/YazBoy/presentation-typescript-ou-java-script-autrement/src)
+### Pour la presentation 
+cliquer ici [Lien vers la presentation]()
