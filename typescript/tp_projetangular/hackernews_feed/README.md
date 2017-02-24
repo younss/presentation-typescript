@@ -6,6 +6,9 @@ npm i typings typescript -g
 cd hackernews_feed
 npm install webpack@2.1.0-beta.21 --save-dev
 npm install
+```
+Pour lancer l'application
+```
 npm start
 ```
 
