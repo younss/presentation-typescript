@@ -27,6 +27,6 @@ lite-server
 ```
 
 ### Pour voir les sources:
-cliquer ici [Lien vers les sources ](https://github.com/younss/presentation-typescript/tree/master/typescript/tps/src)
+cliquer ici [Lien vers les exercices et sources (src) ](https://github.com/younss/presentation-typescript/tree/master/typescript/tps)
 ### Pour la presentation 
 cliquer ici [Lien vers la presentation](https://github.com/younss/presentation-typescript/blob/master/typescript/presentation_typescript.pdf)
